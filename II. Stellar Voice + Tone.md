@@ -1,6 +1,6 @@
 <h1>Stellar Voice + Tone</h1>
 
-<h2>Contents of this section</h2>
+<h2>In this section</h2>
   <li>Why voice matters</li>
 	<li>Who is Stellar?</li>
 	<li>Stellar traits</li>
