@@ -18,7 +18,7 @@ I. Overview
 	<li>Tips for revising</li></ul>
 
 II. Stellar Voice + Tone
-	<ul><li>What’s in a voice?</li>
+	<ul><li>Why voice matters</li>
 	<li>Who is Stellar?</li>
 	<li>Stellar traits</li>
 	<li>How Stellar speaks</li>
