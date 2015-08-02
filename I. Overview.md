@@ -1,6 +1,6 @@
 <h1>I. Overview</h1>
 
-<h2>Contents of this section</h2>
+<h2>In this section</h2>
   <li>Principles for Stellar voice</li>
   <li>Writing basics</li>
   <li>Tips for revising</li>
