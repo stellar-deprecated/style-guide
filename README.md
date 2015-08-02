@@ -9,7 +9,7 @@ As a living document, this style guide is constantly evolving. If you’re looki
 <h2>Contribute</h2>
 Watch for changes as we continue to flesh out this style guide. 
 
-Opportunities for contribution will be more abundant in the future, but for now, we love feedback. Give it on Twitter (<a href = "https://twitter.com/verbagetruck">@verbagetruck</a>, <a href = "https://twitter.com/StellarOrg">@StellarOrg</a>) or via email (jessica at stellar dot org).  
+Opportunities for contribution will be more abundant in the future. For now, we love feedback. Give it on Twitter (<a href = "https://twitter.com/verbagetruck">@verbagetruck</a>, <a href = "https://twitter.com/StellarOrg">@StellarOrg</a>) or via email (jessica at stellar dot org).  
 
 <h2>Contents</h2>
 I. Overview
