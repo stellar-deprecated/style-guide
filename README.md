@@ -17,7 +17,7 @@ I. Overview
 	<li>Writing basics</li>
 	<li>Tips for revising</li></ul>
 
-II. Stellar Voice Guide
+II. Stellar Voice + Tone
 	<ul><li>What’s in a voice?</li>
 	<li>Who is Stellar?</li>
 	<li>Stellar traits</li>
