@@ -63,7 +63,8 @@ Our ambition is to become a democratizing force, like the Internet. By enabling 
 
 <b>Wit.</b> As individuals, we may be quirky and eccentric and sarcastic (<i>Nooo, never</i>). As an organization, Stellar conveys personality in ways other than humor or irony, which are difficult to scale and often don’t translate.
 
-<h2>Stroopy</h2>
+<h2><a href = "https://cloud.githubusercontent.com/assets/11052213/9036149/72db90f4-3993-11e5-9fcf-58e1eb6d0b00.gif">Stroopy</a></h2>
+
 An alien named for the stroopwafel, the Dutch cookie and beloved snack of Stellar.org employees, Stroopy is Stellar's signature explorer. 
 
 <h4>Character</h4>
