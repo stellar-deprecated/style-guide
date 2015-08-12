@@ -6,7 +6,7 @@ Good writing is the sum of many technical decisions. This guide helps writers at
 
 As a living document, this style guide is constantly evolving. If you’re looking for something that isn’t here or have a question about implementing these rules, talk to <a href = "https://github.com/jessica-collier">Jessica</a>.
 
-<h2>Contribute</h2>
+<h2>Contributing</h2>
 Watch for changes as we continue to flesh out this style guide. 
 
 Opportunities for contribution will be more abundant in the future. For now, we love feedback. Give it on Twitter (<a href = "https://twitter.com/verbagetruck">@verbagetruck</a>, <a href = "https://twitter.com/StellarOrg">@StellarOrg</a>) or via email (jessica at stellar dot org).  
@@ -27,4 +27,6 @@ II. Stellar Voice + Tone
 III. Types of Content 
 
 IV. The Persnickety Stuff: Style Guidelines
+
+V. List of Terms and Phrases
 
