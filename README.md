@@ -1,5 +1,7 @@
 <h1>Stellar Style: A Guide</h1>
 
+<i>This guide is a work in progress.</i>
+
 <h2>About this guide</h2>
 
 Good writing is the sum of many technical decisions. This guide helps writers at Stellar.org and in the larger Stellar community make good decisions. In it, we describe the parameters and specific rules—including punctuation, grammar, and other facets of writerly style—that govern Stellar.org’s voice. 
